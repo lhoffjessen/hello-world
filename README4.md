@@ -1,6 +1,6 @@
 # hello-world
 Just another repository
-Yest another nice line of text
+Yet another nice line of text
 
 
 
