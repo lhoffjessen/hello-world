@@ -1,6 +1,6 @@
 # hello-world
 Just another repository
-Added important info
+Added important information
 change 1
 change 2
 
