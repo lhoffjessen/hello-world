@@ -1,6 +1,9 @@
 # hello-world
 Just another repository
-I did something not nice
+
+Commneted out was done directly in master not allowed: I did something not nice 
+
+This is a nice line of text
 
 
 
